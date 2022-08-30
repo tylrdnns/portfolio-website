@@ -1,9 +1,3 @@
-<img src="https://github.com/catherineisonline/personal-portfolio/blob/main/public/project-preview.png?raw=true"><img/>
-
-# Personal Portfolio
-
-My personal <a href="https://catherineisonline.github.io/personal-portfolio/">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
 ## Built With
 
 This project was built using these technologies:
