@@ -5,6 +5,7 @@ import Stack from "./Stack";
 import Education from "./Education";
 import WorkExperience from "./WorkExperience";
 import DownloadResume from "./DownloadResume";
+import DownloadPublished from "./DownloadPublished"
 import AboutMe from "./AboutMe";
 
 const About = () => {
@@ -17,7 +18,7 @@ const About = () => {
       <WorkExperience />
       <Education />
       {<Languages />}
-      <DownloadResume />
+      <DownloadPublished />
       <Certifications />
       <Footer />
     </article>
