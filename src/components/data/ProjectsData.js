@@ -11,52 +11,42 @@ const ProjectsPreviewData = [
   {
     id: 1,
     img: PizzaTime,
-    name: "Ently",
-    stack: ["< React.js />", "< CSS3 />", "< Solidity />"],
-    src: "https://catherineisonline.github.io/pizza-time-with-react/",
-    source: "https://github.com/catherineisonline/pizza-time-with-react",
+    name: "okayipullup",
+    stack: ["< Javascript />", "< React.js />", "< CSS3 />", "< MongoDB />", "< AWS />"],
+    src: "https://www.okayipullup.com/",
+    source: "https://github.com/tylrdnns/okayipullup",
     description:
-      "Ently is a digital marketplace for music-lovers to buy and re-sell ",
+      " Whether visiting a new city or exploring the one you live in, okayipullup is a global map for locating pull-up bars near you. Through user-driven content, we aim to provide you with the most accurate and complete collection of pull-up bars within your selected location. Check out pull-up bars near you or add one of your favorite bars to our collection!",
   },
   {
     id: 2,
     img: TravelWithCatherine,
     name: "Ently",
-    stack: ["< React.js />", "< Tailwind />"],
-    src: "https://catherineisonline.github.io/travel-with-catherine/",
-    source: "https://github.com/catherineisonline/travel-with-catherine",
+    stack: ["< Javascript />", "< Solidity />", "< React.js />", "< GraphQL />", "< IPFS />", "< CSS3 />"],
+    src: "https://entlymarketplace.io/",
+    source: "https://github.com/tylrdnns/ently",
     description:
-      "Okayipull up is a global map of pull-up bars",
+      "",
   },
   {
     id: 3,
     img: RestCountries,
-    name: "okayipullup",
+    name: "Promoquo",
     stack: ["< RESTful API />", "< CSS3 />", "< React.js />"],
-    src: "https://www.okayipullup.com/",
-    source: "https://github.com/tylrdnns/okayipullup",
+    src: "https://promoquo.com/",
+    source: "https://github.com/tylrdnns",
     description:
       "REST Countries is a project made with API which also has a color theme switcher feature. You can view the list of all countries and find a specific one via search or by filtering regions. By navigating to the individual country page, you are able to see more details about the country like native name and even border countries.",
   },
   {
     id: 4,
-    img: Forkify,
-    name: "Forkify Recipes",
-    stack: ["< HTML5 />", "< SCSS />", "< Vanilla JS />", "< RESTful API />"],
-    src: "https://forkify-recipe-api.vercel.app/",
-    source: "https://github.com/catherineisonline/forkify",
+    img: RestCountries,
+    name: "Nodal",
+    stack: ["< RESTful API />", "< CSS3 />", "< React.js />"],
+    src: "https://www.okayipullup.com/",
+    source: "https://github.com/tylrdnns",
     description:
-      "Forkify is a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data. The user can search for a specific recipe, and save to a favorites list via local storage. The user can easily increase or decrease servings as per his need and can view detailed directions.",
-  },
-  {
-    id: 5,
-    img: Bankist,
-    name: "Bankist",
-    stack: ["< Vanilla JS />", "< CSS3 />", "< HTML5 />"],
-    src: "https://bankist-bank.vercel.app/",
-    source: "https://github.com/catherineisonline/bankist",
-    description:
-      "Bankist is a fictional online bank and its goal is to practice DOM manipulation and user interaction. Bankist has an option to log in to the account and use different functionalities, almost like in an actual bank! By logging into your account you can transfer money to another account, take a loan or delete the account. Please check README for login info.",
+      "REST Countries is a project made with API which also has a color theme switcher feature. You can view the list of all countries and find a specific one via search or by filtering regions. By navigating to the individual country page, you are able to see more details about the country like native name and even border countries.",
   },
 ];
 
@@ -64,85 +54,42 @@ const ProjectsData = [
   {
     id: 1,
     img: PizzaTime,
-    name: "Pizza Time",
-    stack: ["< HTML5 />", "< CSS3 />", "< React.js />"],
-    src: "https://catherineisonline.github.io/pizza-time-with-react/",
-    source: "https://github.com/catherineisonline/pizza-time-with-react",
+    name: "okayipullup",
+    stack: ["< Javascript />", "< React.js />", "< CSS3 />", "< MongoDB />", "< AWS />"],
+    src: "https://www.okayipullup.com/",
+    source: "https://github.com/tylrdnns/okayipullup",
     description:
-      "Pizza Time is a pizza restaurant that offers an online menu with various options like pizza, sushi, or pasta. The idea of this project is to make it as close as possible to an actual food e-commerce website which has features like an online menu, order options, and so on.",
+      " Whether visiting a new city or exploring the one you live in, okayipullup is a global map for locating pull-up bars near you. Through user-driven content, we aim to provide you with the most accurate and complete collection of pull-up bars within your selected location. Check out pull-up bars near you or add one of your favorite bars to our collection!",
   },
   {
     id: 2,
     img: TravelWithCatherine,
-    name: "Travel with Catherine",
-    stack: ["< React.js />", "< Tailwind />"],
-    src: "https://catherineisonline.github.io/travel-with-catherine/",
-    source: "https://github.com/catherineisonline/travel-with-catherine",
+    name: "Ently",
+    stack: ["< Javascript />", "< Solidity />", "< React.js />", "< GraphQL />", "< IPFS />", "< CSS3 />"],
+    src: "https://entlymarketplace.io/",
+    source: "https://github.com/tylrdnns/ently",
     description:
-      "Travel with Catherine, a simple photography portfolio to show off some of my photography and code! Another great project to practice React and Tailwind.",
+      "",
   },
-
   {
     id: 3,
     img: RestCountries,
-    name: "Rest Countires",
-    stack: ["< CSS3 />", "< React.js />", "< RESTful API />"],
-    src: "https://catherineisonline.github.io/rest-countries/",
-    source: "https://github.com/catherineisonline/rest-countries",
+    name: "Promoquo",
+    stack: ["< RESTful API />", "< CSS3 />", "< React.js />"],
+    src: "https://promoquo.com/",
+    source: "https://github.com/tylrdnns",
     description:
       "REST Countries is a project made with API which also has a color theme switcher feature. You can view the list of all countries and find a specific one via search or by filtering regions. By navigating to the individual country page, you are able to see more details about the country like native name and even border countries.",
   },
   {
     id: 4,
-    img: Forkify,
-    name: "Forkify Recipes",
-    stack: ["< SCSS />", "< Vanilla JS />", "< RESTful API />"],
-    src: "https://forkify-recipe-api.vercel.app/",
-    source: "https://github.com/catherineisonline/forkify",
+    img: RestCountries,
+    name: "Nodal",
+    stack: ["< RESTful API />", "< CSS3 />", "< React.js />"],
+    src: "https://www.okayipullup.com/",
+    source: "https://github.com/tylrdnns",
     description:
-      "Forkify is a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data. The user can search for a specific recipe, and save to a favorites list via local storage. The user can easily increase or decrease servings as per his need and can view detailed directions.",
-  },
-  {
-    id: 5,
-    img: Bankist,
-    name: "Bankist",
-    stack: ["< Vanilla JS />", "< CSS3 />", "< HTML5 />"],
-    src: "https://bankist-bank.vercel.app/",
-    source: "https://github.com/catherineisonline/bankist",
-    description:
-      "Bankist is a fictional online bank and its goal is to practice DOM manipulation and user interaction. Bankist has an option to log in to the account and use different functionalities, almost like in an actual bank! By logging into your account you can transfer money to another account, take a loan or delete the account. Please check README for login info.",
-  },
-
-  {
-    id: 6,
-    img: GuessMyNumber,
-    name: "Guess My Number",
-    stack: ["<HTML5 />", "< CSS3 />", "< Vanilla JS />"],
-    src: "https://guess-my-number-now.vercel.app/",
-    source: "https://github.com/catherineisonline/guess-my-number",
-    description:
-      "This JavaScript number guessing game project's main goal is to code a game where the user must guess a randomly generated number from 1 to 20. Depending on the number input, the user receives different messages until they guess the secret number.",
-  },
-  {
-    id: 7,
-    img: FrontendMentorSolutions,
-    name: "Frontend Mentor Solutions",
-    stack: ["< Vue.js />", "< Sass />"],
-    src: "https://catherineisonline.github.io/frontend-mentor-challenge-solutions/",
-    source:
-      "https://github.com/catherineisonline/frontend-mentor-challenge-solutions",
-    description:
-      "Frontend Mentor provides designs so that you can practice front-end skills using a real-life workflow. Challenges include designs (both mobile and desktop), assets, and style requirements. Here is the collection of all my Frontend Mentor challenge solutions. You can find links to their repositories, live demos, and direct links to challenges on Frontend Mentor.",
-  },
-  {
-    id: 8,
-    img: Edgy,
-    name: "Edgy",
-    stack: ["< Tailwind />", "< React.js />"],
-    src: "https://catherineisonline.github.io/edgy/",
-    source: "https://github.com/catherineisonline/edgy",
-    description:
-      "Edgy - is a social media marketing agency that offers Instagram growth services to businesses and beginner influencers. The website includes prices, a contact form, a blog, a careers page, and more.",
+      "REST Countries is a project made with API which also has a color theme switcher feature. You can view the list of all countries and find a specific one via search or by filtering regions. By navigating to the individual country page, you are able to see more details about the country like native name and even border countries.",
   },
 ];
 
