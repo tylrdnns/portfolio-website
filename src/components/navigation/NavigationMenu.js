@@ -24,7 +24,7 @@ const NavigationMenu = (props) => {
           isActive
             ? {
                 textDecoration: "none",
-                color: "#fd1056",
+                color: "#daa520",
               }
             : {}
         }
@@ -42,7 +42,7 @@ const NavigationMenu = (props) => {
           isActive
             ? {
                 textDecoration: "none",
-                color: "#fd1056",
+                color: "#daa520",
               }
             : {}
         }
@@ -60,7 +60,7 @@ const NavigationMenu = (props) => {
           isActive
             ? {
                 textDecoration: "none",
-                color: "#fd1056",
+                color: "#daa520",
               }
             : {}
         }

@@ -8,7 +8,7 @@ import DownloadResume from "./DownloadResume";
 import AboutMe from "./AboutMe";
 
 const About = () => {
-  document.title = "About | Catherine Mitagvaria";
+  document.title = "About | Tyler Dennis";
   return (
     <article className="about-main">
       <AboutMe />
@@ -16,7 +16,7 @@ const About = () => {
       <DownloadResume />
       <WorkExperience />
       <Education />
-      <Languages />
+      {<Languages />}
       <DownloadResume />
       <Certifications />
       <Footer />

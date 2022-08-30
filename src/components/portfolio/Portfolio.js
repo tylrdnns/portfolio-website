@@ -3,7 +3,7 @@ import Footer from "../footer/Footer";
 import PortfolioDescription from "./PortfolioDescription";
 
 const Portfolio = () => {
-  document.title = "Portfolio | Catherine Mitagvaria";
+  document.title = "Portfolio | Tyler Dennis";
   return (
     <article className="portfolio-main">
       <PortfolioDescription />

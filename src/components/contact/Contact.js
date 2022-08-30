@@ -2,10 +2,10 @@
 import Footer from "../footer/Footer";
 
 const Contact = () => {
-  document.title = "Contact | Catherine Mitagvaria";
+  document.title = "Contact | Tyler Dennis";
   function sendEmai() {
     window.open(
-      "mailto:ekaterine.jpg@gmail.com?subject=SendMail&body=Description"
+      "mailto:tylrdnns@gmail.com?subject=Hello&body=Greetings"
     );
   }
   return (

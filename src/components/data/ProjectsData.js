@@ -11,30 +11,30 @@ const ProjectsPreviewData = [
   {
     id: 1,
     img: PizzaTime,
-    name: "Pizza Time",
-    stack: ["< React.js />", "< CSS3 />", "< Leaflet API />"],
+    name: "Ently",
+    stack: ["< React.js />", "< CSS3 />", "< Solidity />"],
     src: "https://catherineisonline.github.io/pizza-time-with-react/",
     source: "https://github.com/catherineisonline/pizza-time-with-react",
     description:
-      "Pizza Time is a pizza restaurant that offers an online menu with various options like pizza, sushi, or pasta. The idea of this project is to make it as close as possible to an actual food e-commerce website which has features like an online menu, order options, and so on.",
+      "Ently is a digital marketplace for music-lovers to buy and re-sell ",
   },
   {
     id: 2,
     img: TravelWithCatherine,
-    name: "Travel with Catherine",
+    name: "Ently",
     stack: ["< React.js />", "< Tailwind />"],
     src: "https://catherineisonline.github.io/travel-with-catherine/",
     source: "https://github.com/catherineisonline/travel-with-catherine",
     description:
-      "Travel with Catherine, a simple photography portfolio to show off some of my photography and code! Another great project to practice React and Tailwind.",
+      "Okayipull up is a global map of pull-up bars",
   },
   {
     id: 3,
     img: RestCountries,
-    name: "Rest Countires",
+    name: "okayipullup",
     stack: ["< RESTful API />", "< CSS3 />", "< React.js />"],
-    src: "https://catherineisonline.github.io/rest-countries/",
-    source: "https://github.com/catherineisonline/rest-countries",
+    src: "https://www.okayipullup.com/",
+    source: "https://github.com/tylrdnns/okayipullup",
     description:
       "REST Countries is a project made with API which also has a color theme switcher feature. You can view the list of all countries and find a specific one via search or by filtering regions. By navigating to the individual country page, you are able to see more details about the country like native name and even border countries.",
   },

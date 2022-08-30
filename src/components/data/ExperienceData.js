@@ -1,115 +1,61 @@
 const ExperienceData = [
   {
     id: 1,
-    jobtitle: "Head of Department",
-    companyname: "Social Boost",
+    jobtitle: "Junior Investment Technologist",
+    companyname: "Coperate Services Consulting Inc",
     worktype: "Full-time",
-    duration: "Jan 2021 - Oct 2021",
-    location: "Tbilisi, Georgia",
+    duration: "Feb 2022 - Present",
+    location: "Austin, Texas",
     responsibility: [
-      `Guided a team of 70 Instagram growth specialists and over 5 team leaders.`,
-      `Revised company marketing practices, switched strategies at least once a month, and applied updates to training programs.`,
-      `Developed new growth strategies to improve results for over 6 thousand customers and arranged weekly meetings with the company Directors.`,
-      `In 10 months improved retention rate by almost 15%.`,
-      `Resolved all client complaints by collaborating with over 3 other departments such as sales, customer support, and the onboarding team.`,
-      `Individual performance review and weekly meetings with the team.`,
+      `Assessing the current state of risk management and accountp erformance systems for investment managers/asset allocators`,
+      `Collaborating with financial experts to determine database and framework structure from high-throughput investment systems`,
+      `Translating current-state findings into intuitive and thorough diagnostic reports`,
     ],
   },
   {
     id: 2,
-    jobtitle: "Team Lead",
-    companyname: "Social Boost",
+    jobtitle: "Full-Stack Web3 Engineer",
+    companyname: "Ently",
     worktype: "Full-time",
-    duration: "Sep 2020 - Jan 2021",
-    location: "Tbilisi, Georgia",
+    duration: "Feb 2022 - May 2022",
+    location: "Austin, Texas",
     responsibility: [
-      `Mentored a team of 3-4 Instagram growth specialists and encouraged the highest levels of quality performance.`,
-      `Collaborated with the customer support team to ensure we deliver the best result to all 200+ customers.`,
-      `Weekly performance report to management.`,
-      `Supported the improvement of over 4 social media growth strategies.`,
+      `Guided a team of 70 Instagram growth specialists and over 5 team leaders.`,
+      `Revised company marketing practices, switched strategies at least once a month, and applied updates to training programs.`,
+      `Developed new growth strategies to improve results for over 6 thousand customers and arranged weekly meetings with the company Directors.`,
     ],
   },
   {
     id: 3,
-    jobtitle: "Instagram Growth Specialist",
-    companyname: "Social Boost",
+    jobtitle: "Full-Stack Engineer",
+    companyname: "Promoquo",
     worktype: "Full-time",
-    duration: "Jul 2020 - Sep 2020",
-    location: "Tbilisi, Georgia",
+    duration: "Aug 2021 - Feb 2022",
+    location: "Austin, Texas",
     responsibility: [
-      `Hand-growing Instagram accounts manually via the Instagram app.`,
-      `Interacting with people to generate highly engaged niche audiences.`,
-      `Researching targets to ensure the highest quality Instagram growth is achieved.`,
-      `Using organic Instagram growth techniques`,
-      `Doing hashtag and competitor account research`,
-      `Heling with audience and engagement building`,
+      `Designing and implementing MERN stack structure to company platform.`,
+      `Organizing team for frontend development, while bridging core APIs such as TalkJS and Stripe.`,
+      `Participating with leadership in shaping the vision of the company’s business model.`,
     ],
   },
   {
     id: 4,
-    jobtitle: "Sales Specialist",
-    companyname: "Be-Canadian Immigration Agency",
-    worktype: "Full-time",
-    duration: "Jul 2019 - Feb 2020",
-    location: "Tbilisi, Georgia",
+    jobtitle: "Chief Executive Officer",
+    companyname: "Beagle",
+    worktype: "Self-employed",
+    duration: "2019 - 2020",
+    location: "Austin, Texas",
     responsibility: [
-      `Reaching out to customers interested in immigration to Canada via phone calls (warm calls).`,
-      `Offering services using solid arguments and providing information on how immigration works.`,
-      `Maintaining positive business/customer relationships.`,
-      `Achieving monthly sales targets. `,
-      `Providing management with reports of daily activity using the CRM system. `,
-      `Writing custom e-mails to customers. `,
-      `Using follow-up/callback strategies. `,
-      `I also helped with hiring new people and providing them with training`,
+      ``,
     ],
   },
   {
     id: 5,
-    jobtitle: "Chief Executive Officer",
-    companyname: "Catrisa Lingerie",
-    worktype: "Self-employed",
-    duration: "2019 - 2020",
-    location: "Tbilisi, Georgia",
-    responsibility: [
-      `Online lingerie store start-up catrisa.ge. I was managing all the aspects of the company on my own. Sales were done online/locally only. My first business failed and the biggest reason was Covid-19 as I was unable to fulfill the orders and refill the stock. Received a lot of experience in how retail business works and improved my skills with customer support, web development, local SEO as well as content and social media management.`,
-    ],
-  },
-  {
-    id: 6,
-    jobtitle: "Promotion Agent",
-    companyname: "Nightclubs / Bars and Restaurant",
-    worktype: "Freelance",
-    duration: "2017 - 2019",
-    location: "Tbilisi, Georgia",
-    responsibility: [
-      `Approaching potential customers, giving presentations, distributing fliers, and promoting the services/idea to join specific bars/clubs.`,
-      `I mostly worked with foreign customers in English, Russian, and sometimes German.`,
-    ],
-  },
-  {
-    id: 7,
-    jobtitle: "Sales Specialist",
-    companyname: "Next Brand",
+    jobtitle: "Case Investigator",
+    companyname: "Arizona Department of Health",
     worktype: "Full-time",
-    duration: "Jul 2015 - Jul 2017",
-    location: "Tbilisi, Georgia",
-    responsibility: [
-      `Reaching out to existing/potential customers via phone calls including cold and warm calls.`,
-      `Promoting/selling services using solid arguments.`,
-      `Maintaining positive business/customer relationships.`,
-      `Achieving monthly sales targets. `,
-      `Providing management with reports of daily activity using the CRM system. `,
-      `Writing custom e-mails to customers. `,
-      `Using follow-up/callback strategies. `,
-    ],
-  },
-  {
-    id: 8,
-    jobtitle: "Child Care Specialist",
-    companyname: "Au Pair",
-    worktype: "Full-time",
-    duration: "Jul 2014 - Jul 2015",
-    location: "Breisach am Rhein, Baden-Württemberg, Germany",
+    duration: "Dec 2020 - Aug 2021",
+    location: "Phoenix, Arizona",
     responsibility: [
       `Taking host child to kindergarten. `,
       `Playing, reading, or walking outside with the host child. `,
@@ -117,37 +63,45 @@ const ExperienceData = [
     ],
   },
   {
-    id: 9,
-    jobtitle: "Waitress",
-    companyname: "Club IVERIA",
+    id: 6,
+    jobtitle: "Research Associate",
+    companyname: "SIGN Limb Deformity Clinic",
     worktype: "Full-time",
-    duration: "Jul 2012 - Jul 2014",
-    location: "Tbilisi, Georgia",
+    duration: "Jun 2019 - Sept 2019",
+    location: "Nairobi, Kenya",
     responsibility: [
-      `Providing customer service. `,
-      `Greeting customers and taking food/drink orders. `,
-      `Making suggestions based on their preference.`,
-      `Keeping ashtrays clean and tables tidy. `,
-      `Cooperating between customers and the serving staff. `,
+      `The aim of the research group is to investigate cause, trends, and treatments for limb deformity for Kenya’s Ministry of Health.`,
+      `Compiled and implemented a database for health officials to record cases of limb deformity correction; used existing data to pinpoint areas of future undernourishment for proper allocation of resources.`,
+      `Worked closely with Ministry of Health officials and local orthopedic physicians to coordinate a plan for future intake and treatment of limb deformity patients.`,
+      `Learned surgical techniques and had hands-on participation in limb deformity treatment.`,
+    ],
+  },
+  {
+    id: 7,
+    jobtitle: "Asistant Research Associate",
+    companyname: "Univeristy of Ariona || Sarver Heart Center",
+    worktype: "Part-time",
+    duration: "Dec 2018 - Aug 2020",
+    location: "Tucson, Arizona",
+    responsibility: [
+      `The aim of the research group is to understand the affects of a myocardial infarct and determine methods of treatment through stem cell grafting.`,
+      `Pressure-volume (PV) loop analysis through LabChart and R programming, creating SOPs for such practices, and biochemistry lab maintenance.`,
+      `Tasked to determine the efficacy of differing myocardial stem cell treatments for congestive heart failure (CHF) through pressure-volume analysis.`,
+      `Contributor to the grant writing process to secure a combined 10,ooo dollars of funding, resulting in an academic publication in Nature Journal `,
     ],
   },
 ];
 
 const EducationData = [
   {
-    name: "freeCodeCamp",
-    status: "JavaScript Algorithms and Data Structures",
-    year: "2021",
+    name: "University of Arizona",
+    status: "BS, Biochemistry",
+    year: "2016 - 2020",
   },
   {
-    name: "Tbilisi State University",
-    status: "Ba, Psychology",
-    year: "2012 - 2014",
-  },
-  {
-    name: "Tbilisi public school N154",
-    status: "General Education Diploma",
-    year: "2000 - 2012",
+    name: "University of Arizona",
+    status: "BS, Ecology",
+    year: "2016 - 2020",
   },
 ];
 
@@ -173,186 +127,7 @@ const CertificationData = [
     creditUrl:
       "https://www.codecademy.com/profiles/catherineisonline/certificates/512386fdc7f6c934f98b01e6afa8285a",
   },
-  {
-    name: "Learn Intermediate CSS",
-    source: "Codecademy",
-    date: "Issued Aug 2022 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/b3dec49423da50603c25618aee635027",
-  },
-  {
-    name: "Create a Professional Website with Velo by Wix Course",
-    source: "Codecademy",
-    date: "Issued Aug 2022 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/9605a581bda107153c433f7889dbc268",
-  },
-  {
-    name: "Code Foundations",
-    source: "Codecademy",
-    date: "Issued Aug 2022 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/5b55e668646caa552f8e4d1d",
-  },
-  {
-    name: "Jira Fundamentals Badge",
-    source: "Atlassian",
-    date: "Issued Aug 2022 · No Expiration Date",
-    creditUrl:
-      "https://university.atlassian.com/student/award/MXrALckUagVqUKYJqdvioenM",
-  },
-  {
-    name: "Trello Fundamentals Badge",
-    source: "Atlassian",
-    date: "Issued Aug 2022 · No Expiration Date",
-    creditUrl:
-      "https://university.atlassian.com/student/award/Xz2rCXRVypxn91pD5PsbYrby",
-  },
-  {
-    name: "EF SET English Certificate 73/100 C2 Proficient",
-    source: "EF Standard English Test (EF SET)",
-    date: "Issued Jul 2022 · No Expiration Date",
-    creditUrl: "https://www.efset.org/cert/7dr3HT",
-  },
-  {
-    name: "JavaScript Algorithms and Data Structures",
-    source: "freeCodeCamp",
-    date: "Issued Jul 2022 · No Expiration Date",
-    creditUrl:
-      "https://freecodecamp.org/certification/catherineisonline/javascript-algorithms-and-data-structures",
-  },
-  {
-    name: "The Complete JavaScript Course 2022: From Zero to Expert by Jonas Schmedtmann",
-    source: "Udemy",
-    date: "Issued Jul 2022 · No Expiration Date",
-    creditUrl:
-      "https://www.udemy.com/certificate/UC-0ce60e41-2077-40bc-8385-b15db83540e5/",
-  },
-  {
-    name: "React + Redux",
-    source: "Sololearn",
-    date: "Issued Dec 2021 · No Expiration Date",
-    creditUrl: "https://www.sololearn.com/Certificate/1097-19028975/pdf",
-  },
-  {
-    name: "Responsive Web Design",
-    source: "Sololearn",
-    date: "Issued Dec 2021 · No Expiration Date",
-    creditUrl: "https://www.sololearn.com/Certificate/1162-19028975/pdf",
-  },
-  {
-    name: "The Web Developer Bootcamp",
-    source: "Udemy",
-    date: "Issued Dec 2021 · No Expiration Date",
-    creditUrl:
-      "https://www.udemy.com/certificate/UC-89fa3340-29cd-4ca5-ab45-18efdde98029/",
-  },
-  {
-    name: "Intro to HTML and CSS",
-    source: "Lambda School",
-    date: "Issued Nov 2021 · No Expiration Date",
-    creditUrl: "https://mycourse.app/JN71ZydHJctFJzx37",
-  },
-  {
-    name: "Building Interactive JavaScript Websites Course",
-    source: "Codecademy",
-    date: "Issued Sep 2021 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/36ae898a1d1c8524815305b2d1d2ebab",
-  },
-  {
-    name: "Learn Bootstrap Course",
-    source: "Codecademy",
-    date: "Issued Sep 2021 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/0595479d03627a8cb816b069000e4d06",
-  },
-  {
-    name: "Learn Git Course",
-    source: "Codecademy",
-    date: "Issued Sep 2021 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/a8ab218d5950c29861635cc0bf12fd13",
-  },
-  {
-    name: "Learn JavaScript Course",
-    source: "Codecademy",
-    date: "Issued Sep 2021 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/705dcb15de0da4dd9d9fc4f3274b430e",
-  },
-  {
-    name: "Learn the Command Line Course",
-    source: "Codecademy",
-    date: "Issued Sep 2021 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/c87ba0541f8be78bc2f4ba1128233f6f",
-  },
-  {
-    name: "Responsive Web Design",
-    source: "freeCodeCamp",
-    date: "Issued Sep 2021 · No Expiration Date",
-    creditUrl:
-      "https://www.freecodecamp.org/certification/catherineisonline/responsive-web-design",
-  },
-  {
-    name: "Web Development Career Path",
-    source: "freeCodeCamp",
-    date: "Issued Sep 2021 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/5b32457b646caa5007c30975",
-  },
-  {
-    name: "SQL course",
-    source: "Sololearn",
-    date: "Issued Oct 2020 · No Expiration Date",
-    creditUrl: "https://www.sololearn.com/Certificate/1060-19028975/pdf/",
-  },
-  {
-    name: "CSS Fundamentals course",
-    source: "Sololearn",
-    date: "Issued Sep 2020 · No Expiration Date",
-    creditUrl: "https://www.sololearn.com/Certificate/1023-19028975/pdf/",
-  },
-  {
-    name: "JavaScript course",
-    source: "Sololearn",
-    date: "Issued Sep 2020 · No Expiration Date",
-    creditUrl: "https://www.sololearn.com/Certificate/1024-19028975/pdf/",
-  },
-  {
-    name: "jQuery course",
-    source: "Sololearn",
-    date: "Issued Sep 2020 · No Expiration Date",
-    creditUrl: "https://www.sololearn.com/Certificate/1082-19028975/pdf/",
-  },
-  {
-    name: "HTML course",
-    source: "Sololearn",
-    date: "Issued Jul 2020 · No Expiration Date",
-    creditUrl: "https://www.sololearn.com/Certificate/1014-19028975/pdf/",
-  },
-  {
-    name: "Build a Website with HTML, CSS, and Github Pages",
-    source: "Codecademy",
-    date: "Issued Jun 2020 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/5cadfefe5f1de806e9704577",
-  },
-  {
-    name: "Learn CSS",
-    source: "Codecademy",
-    date: "Issued May 2020 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/9a5bb1fc45b4281af1fffec93b0aaf05",
-  },
-  {
-    name: "Learn HTML",
-    source: "Codecademy",
-    date: "Issued Mar 2020 · No Expiration Date",
-    creditUrl:
-      "https://www.codecademy.com/profiles/catherineisonline/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7",
-  },
+  
 ];
 
 export { ExperienceData, EducationData, CertificationData };

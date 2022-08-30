@@ -3,11 +3,11 @@ const Footer = () => {
     <article className="footer">
       <section>
         <a
-          href="https://github.com/catherineisonline/"
+          href="https://github.com/tylrdnns/"
           target="_blank"
           rel="noreferrer"
         >
-          Designed & Built by Catherine &copy;2022
+          Built by Tyler &copy;2022
         </a>
       </section>
     </article>
