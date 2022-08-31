@@ -9,9 +9,9 @@ export const Certifications = () => {
             <h3 className="h3-tag">{info.name}</h3>
             <p>{info.source}</p>
             <p>{info.date}</p>
-            <a href={info.creditUrl} target="_blank" rel="noreferrer">
+            {/*<a href={info.creditUrl} target="_blank" rel="noreferrer">
               Show credential
-            </a>
+        </a>*/}
           </section>
         ))}
       </section>
