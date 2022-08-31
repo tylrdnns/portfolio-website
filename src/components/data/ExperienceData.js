@@ -20,9 +20,11 @@ const ExperienceData = [
     duration: "Feb 2022 - May 2022",
     location: "Austin, Texas",
     responsibility: [
-      `Guided a team of 70 Instagram growth specialists and over 5 team leaders.`,
-      `Revised company marketing practices, switched strategies at least once a month, and applied updates to training programs.`,
-      `Developed new growth strategies to improve results for over 6 thousand customers and arranged weekly meetings with the company Directors.`,
+      `Deployed a marketplace allowing users to mint, sell, and buy assets with user generated associated collections`,
+      `Successfully launched an immersive NFT collection in the form of a collaborative musician's latest album`,
+      `AWS network configuration for the deployment of a full-stack web3 application`,
+      `Smart contract development for minting and market sale functionality`,
+      `Frontend UI/UX design`,
     ],
   },
   {
@@ -46,20 +48,20 @@ const ExperienceData = [
     duration: "2019 - 2020",
     location: "Austin, Texas",
     responsibility: [
-      ``,
+      `Co-founder of a data aggregation company that successfully implements real-world data to on-chain networks like Ethereum and Avalanche. Through oracle protocols, we supply price feed data for major defi exchanges like AAVE, uniswap, and sushiswap`,
     ],
   },
   {
     id: 5,
-    jobtitle: "Case Investigator",
-    companyname: "Arizona Department of Health",
+    jobtitle: "Case Investigator, Data Analyst",
+    companyname: "Arizona Department of Health Services",
     worktype: "Full-time",
     duration: "Dec 2020 - Aug 2021",
     location: "Phoenix, Arizona",
     responsibility: [
-      `Taking host child to kindergarten. `,
-      `Playing, reading, or walking outside with the host child. `,
-      `Cooking food and cleaning the room for the host child, including minor household duties.`,
+      `Intake of public health data regarding new and existing cases of infectious diseases, mainly focused on COVID-19 `,
+      `Creating autonomous databasing system for data intake through frontend client `,
+      `Data analytics on existing cases of COVID-19 and associated metadata`,
     ],
   },
   {

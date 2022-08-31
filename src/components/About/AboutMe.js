@@ -8,7 +8,7 @@ const AboutMe = () => {
         research has given me the foundation to relentlessly pursue answers. I
         combine my management expertise with technical skills and fully commit
         to consistency, meeting deadlines, and utilizing all available resources
-        to achieve results. I enjoy creating fluidity between an accesible client experience and an efficient server management
+        to achieve results. I enjoy creating fluidity between an accesible client experience and an efficient server management system
         by utilizing tools such as JavaScript, ReactJS, ExpressJS, Web3, Cloud Seervices, and MongoDB. 
         My effective use of time, problem-solving, and
         communication skills help me show a positive attitude in complex
