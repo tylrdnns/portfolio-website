@@ -1,15 +1,17 @@
 const ExperienceData = [
   {
     id: 1,
-    jobtitle: "Junior Investment Technologist",
-    companyname: "Coperate Services Consulting Inc",
+    jobtitle: "Investment Technologist",
+    companyname: "Consulting Services for the International Monetary Fund",
     worktype: "Full-time",
     duration: "Feb 2022 - Present",
     location: "Austin, Texas",
     responsibility: [
-      `Assessing the current state of risk management and accountp erformance systems for investment managers/asset allocators`,
-      `Collaborating with financial experts to determine database and framework structure from high-throughput investment systems`,
-      `Translating current-state findings into intuitive and thorough diagnostic reports`,
+      `Assessing IMF’s current state of risk and exposure measures and asset allocation performance through conducting team member interviews and a systems review`,
+      `Collaborating with financial experts and data engineers to automate risk/exposure and performance data
+      frameworks with Python scripting; reducing man-power hours and margin of error by 20% and 3%
+      respectively`,
+      `Compiling current-state findings into intuitive diagnostic reports for historical documentation`,
     ],
   },
   {
@@ -20,52 +22,48 @@ const ExperienceData = [
     duration: "Feb 2022 - May 2022",
     location: "Austin, Texas",
     responsibility: [
-      `Deployed a marketplace allowing users to mint, sell, and buy assets with user generated associated collections`,
-      `Successfully launched an immersive NFT collection in the form of a collaborative musician's latest album`,
-      `AWS network configuration for the deployment of a full-stack web3 application`,
+      `Deploying an end-to-end marketplace for artists, specifically musicians, to distribute their work as a tokenized
+      digital assets.`,
+      `Implementing a MERN stack with Web3 and Ethers libraries to enable wallet connection and smart contract
+      compatibility for transactions between users and minting new assets`,
+      `Designing and deploying dynamic Solidity smart contracts with Hardhat that are developer friendly and optimize cost per a transaction; reduced smart contract development costs by 35 percent`,
       `Smart contract development for minting and market sale functionality`,
-      `Frontend UI/UX design`,
+      `Frontend Development for a fluid UI/UX, ushering in user growth`,
     ],
   },
   {
     id: 3,
-    jobtitle: "Full-Stack Engineer",
+    jobtitle: "Full-Stack Developeer",
     companyname: "Promoquo",
     worktype: "Full-time",
     duration: "Aug 2021 - Feb 2022",
     location: "Austin, Texas",
     responsibility: [
-      `Designing and implementing MERN stack structure to company platform.`,
-      `Organizing team for frontend development, while bridging core APIs such as TalkJS and Stripe.`,
-      `Participating with leadership in shaping the vision of the company’s business model.`,
+      `Constructing both client and server side applications for a platform designed to bridge the gap between content
+      creators and marketing agencies.`,
+      `Implementing a full suite of tools from APIs to provide users with functionalities like communication channels
+      (TalkJS), payments methods (Stripe), metric analysis (Google Analytics), data intake (Instagram, Youtube,
+      Twitter)`,
+      `Establishing route specific functionality dependent on type of user profile (admin, talent, client).`,
     ],
   },
   {
     id: 4,
-    jobtitle: "Chief Executive Officer",
-    companyname: "Beagle",
-    worktype: "Self-employed",
-    duration: "2019 - 2020",
-    location: "Austin, Texas",
-    responsibility: [
-      `Co-founder of a data aggregation company that successfully implements real-world data to on-chain networks like Ethereum and Avalanche. Through oracle protocols, we supply price feed data for major defi exchanges like AAVE, uniswap, and sushiswap`,
-    ],
-  },
-  {
-    id: 5,
     jobtitle: "Case Investigator, Data Analyst",
     companyname: "Arizona Department of Health Services",
     worktype: "Full-time",
     duration: "Dec 2020 - Aug 2021",
     location: "Phoenix, Arizona",
     responsibility: [
-      `Intake of public health data regarding new and existing cases of infectious diseases, mainly focused on COVID-19 `,
-      `Creating autonomous databasing system for data intake through frontend client `,
-      `Data analytics on existing cases of COVID-19 and associated metadata`,
+      `Intake of data regarding new and existing cases of infectious diseases, mainly focused on COVID-19; providing
+      accurate analysis of data used to dictate a real-time public health response`,
+      `Creating an autonomous databasing pipeline for incoming information and calculating statistical analyses· Precisely pinpointing regions of infectious disease influx and sources of transmission`,
+      `Coordinating with state officials on methods of reducing and mitigating the spread of Covid-19 and other
+      infectious diseases`,
     ],
   },
   {
-    id: 6,
+    id: 5,
     jobtitle: "Research Associate",
     companyname: "SIGN Limb Deformity Clinic",
     worktype: "Full-time",
@@ -79,7 +77,7 @@ const ExperienceData = [
     ],
   },
   {
-    id: 7,
+    id: 6,
     jobtitle: "Asistant Research Associate",
     companyname: "Univeristy of Ariona || Sarver Heart Center",
     worktype: "Part-time",
