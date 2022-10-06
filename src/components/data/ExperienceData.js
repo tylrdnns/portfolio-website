@@ -79,7 +79,7 @@ const ExperienceData = [
   {
     id: 6,
     jobtitle: "Asistant Research Associate",
-    companyname: "Univeristy of Ariona || Sarver Heart Center",
+    companyname: "Univeristy of Arizona || Sarver Heart Center",
     worktype: "Part-time",
     duration: "Dec 2018 - Aug 2020",
     location: "Tucson, Arizona",
